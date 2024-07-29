@@ -18,7 +18,7 @@ password = config('CLV_EMAIL')
 
 # Destinatario del correo
 # Dirección de correo electrónico del destinatario
-receiver_email = 'jpineda@viva.com.do'
+receiver_email = 'example@mail.com.do'
 
 
 def send_email():
